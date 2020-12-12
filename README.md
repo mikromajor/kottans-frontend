@@ -9,4 +9,6 @@ https://github.com/mikromajor/kottans-frontend/blob/master/task_linux_cli/quiz_4
 ## Intro to HTML and CSS
 https://github.com/mikromajor/kottans-frontend/blob/master/task_html_css_intro/completed_curses_1_html_2_css.png
 https://github.com/mikromajor/kottans-frontend/blob/master/task_html_css_intro/completed_intro_html_and_css.png
+I liked CSS transitions,it's cool. Simple animation.
+I need to practice with the GRID
 
